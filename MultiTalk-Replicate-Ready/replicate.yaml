@@ -1,0 +1,4 @@
+
+name: multitalkaudio
+run: ["python3", "predict.py"]
+predict: "predict.py:Predictor"
